@@ -1,5 +1,5 @@
 {
-  "name" : "thecodingmachine/graphqlite-symfony-validator-bridge",
+  "name" : "besmartand-pro/graphqlite-symfony-validator-bridge",
   "description" : "A bridge to use Symfony validator with GraphQLite.",
   "keywords" : [
     "graphql",
